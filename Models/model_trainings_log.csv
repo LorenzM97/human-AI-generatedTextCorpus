@@ -1,0 +1,15 @@
+rf;rephrase_expert;['ppl_max', 'ppl_mean'];1;0.55;0.608695652173913;{'max_depth': 5, 'max_leaf_nodes': 9, 'min_samples_split': 2, 'n_estimators': 100};240409_175744
+rf;rephrase_expert;['ppl_max', 'ppl_mean'];2;0.65;0.588235294117647;{'max_depth': None, 'max_leaf_nodes': 3, 'min_samples_split': 2, 'n_estimators': 50};240409_175805
+rf;rephrase_expert;['ppl_max', 'ppl_mean'];3;0.55;0.5714285714285713;{'max_depth': None, 'max_leaf_nodes': 3, 'min_samples_split': 2, 'n_estimators': 50};240409_175825
+rf;rephrase_expert;['ppl_max', 'ppl_mean'];4;0.75;0.761904761904762;{'max_depth': 5, 'max_leaf_nodes': 9, 'min_samples_split': 2, 'n_estimators': 100};240409_175846
+rf;rephrase_expert;['ppl_max', 'ppl_mean'];5;0.75;0.761904761904762;{'max_depth': None, 'max_leaf_nodes': 6, 'min_samples_split': 2, 'n_estimators': 100};240409_175906
+xgb;rephrase_expert;['ppl_max', 'ppl_mean'];1;0.55;0.608695652173913;{'alpha': 0.25, 'lambda': 2, 'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50};240409_175927
+xgb;rephrase_expert;['ppl_max', 'ppl_mean'];2;0.55;0.5263157894736842;{'alpha': 0.25, 'lambda': 1.25, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 500};240409_175942
+xgb;rephrase_expert;['ppl_max', 'ppl_mean'];3;0.45;0.3529411764705882;{'alpha': 0.75, 'lambda': 1.25, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 50};240409_175947
+xgb;rephrase_expert;['ppl_max', 'ppl_mean'];4;0.7;0.7;{'alpha': 0.75, 'lambda': 1.25, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 50};240409_175950
+xgb;rephrase_expert;['ppl_max', 'ppl_mean'];5;0.75;0.7368421052631577;{'alpha': 0.25, 'lambda': 1.25, 'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50};240409_175954
+NN;rephrase_expert;['ppl_max', 'ppl_mean'];1;0.45;0.5217391304347826;{'units': 64, 'num_layers': 2};240409_175957
+NN;rephrase_expert;['ppl_max', 'ppl_mean'];2;0.7;0.75;{'units': 16, 'num_layers': 2};240409_180040
+NN;rephrase_expert;['ppl_max', 'ppl_mean'];3;0.5;0.5454545454545454;{'units': 32, 'num_layers': 2};240409_180118
+NN;rephrase_expert;['ppl_max', 'ppl_mean'];4;0.7;0.7272727272727272;{'units': 32, 'num_layers': 2};240409_180157
+NN;rephrase_expert;['ppl_max', 'ppl_mean'];5;0.75;0.761904761904762;{'units': 32, 'num_layers': 2};240409_180236
